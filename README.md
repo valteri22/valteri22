@@ -1,11 +1,26 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/valteri22/valteri22/refs/heads/main/gif.gif" width="25%" align="right" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF58&center=true&width=460&height=34&lines=hello%2C+i'm+valtteri." alt="Typing SVG" /></a>
+
+  <!-- 🎞️ Aesthetic side GIF -->
+  <img src="https://raw.githubusercontent.com/valteri22/valteri22/refs/heads/main/gif.gif" width="25%" align="right" />
+
+  <!-- 🧠 Typing header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF58&center=true&width=460&height=34&lines=hello%2C+i'm+valtteri." alt="Typing SVG" />
+
+  <!-- 📝 Short intro -->
 <pre>
-    cse bsc student
-    applied cs / cybersec 
-    currently interested in embedded systems and mobile app development
+cse bsc student
+applied cs / cybersec
+currently interested in embedded systems and mobile app development
 </pre>
-    
-[![](https://img.shields.io/badge/telegram-8A2BE2)](https://t.me/valtteripiippo)
+
+  <!-- ⚡ Subtle gray line using HR -->
+  <hr style="width:60%; border:0; height:1px; background-color:#888888; margin: 20px auto;" />
+
+  <!-- 🔗 Contact -->
+  <p>
+    <a href="https://t.me/valtteripiippo">
+      <img src="https://img.shields.io/badge/telegram-8A2BE2?style=flat-square&logo=telegram&logoColor=white"/>
+    </a>
+  </p>
+
 </div>
