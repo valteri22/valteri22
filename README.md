@@ -4,11 +4,10 @@
   <img src="https://raw.githubusercontent.com/valteri22/valteri22/refs/heads/main/gif.gif" width="25%" align="right" />
 
   <!-- 🧠 Typing header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF58&center=true&width=460&height=34&lines=hello%2C+i'm+valtteri." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF58&center=true&width=460&height=34&lines=hello." alt="Typing SVG" />
 
   <!-- 📝 Short intro -->
 <pre>
-cse bsc student
 applied cs / cybersec
 currently interested in embedded systems and mobile app development
 </pre>
