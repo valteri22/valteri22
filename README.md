@@ -8,8 +8,7 @@
 
   <!-- 📝 Short intro -->
 <pre>
-applied cs / cybersec
-currently interested in embedded systems and mobile app development
+interested in cybersecurity
 </pre>
 
   <!-- ⚡ Subtle gray line using HR -->
